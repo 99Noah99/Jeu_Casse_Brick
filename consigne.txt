@@ -1,8 +1,0 @@
-Le projet consiste à concevoir et à implémenter une interface graphique en Java pour un jeu de casse-briques classique. Dans un jeu de casse-briques, le joueur contrôle une raquette qui rebondit une balle pour détruire des briques situées en haut de l'écran. Le but est de détruire toutes les briques tout en empêchant la balle de tomber en dessous de la raquette.
- 
-Le principe de base minimal est de programmer une partie avec un joueur contre l’ordinateur. Les interactions entre l’ordinateur et le joueur se font via une interface graphique simple qui propose de jouer. Les fonctionnalités suivantes doivent aussi être implémentées :
-- Commencer une nouvelle partie
-- Sauver une partie en cours
-- Charger une ancienne partie
-- Implémenter le mécanisme qui permet le déplacement de la balle, sa réaction aux briques et à la raquette.
-- Détecter la fin de la partie, en annonçant le gagnant, etc
